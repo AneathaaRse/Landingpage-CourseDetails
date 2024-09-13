@@ -44,10 +44,4 @@ Technologies Used
 . SVG and PNG: Utilized for logos, social media icons, and other graphical elements.
 
 SCREENSHOT 
-![alt text](<Screenshot 2024-09-11 202205.png>)
-![alt text](<Screenshot 2024-09-11 202305.png>)
-![alt text](<Screenshot 2024-09-11 202356.png>)
-![alt text](<Screenshot 2024-09-11 202418.png>)
-![alt text](<Screenshot 2024-09-11 202544.png>)
-![alt text](<Screenshot 2024-09-11 202623.png>)
-![alt text](<Screenshot 2024-09-11 202645.png>)
+
