@@ -44,4 +44,10 @@ Technologies Used
 . SVG and PNG: Utilized for logos, social media icons, and other graphical elements.
 
 SCREENSHOT 
-
+https://1drv.ms/i/c/dd9642a4a5fe25bb/EaW5IpdXPphHorNYNKbGWZUBAHqjPa8wMkoSezI1cRdFig?e=gbJTyp
+https://1drv.ms/i/c/dd9642a4a5fe25bb/EVYp9f7LidNKtXvZ0QmJhhgBnJma1nuIXCDHJfLV_-KZNA?e=XzwOAW
+https://1drv.ms/i/c/dd9642a4a5fe25bb/EVRFWF2asTdPqIIMFJ2j6goBceBLO0klbE1j9j5pO_KWqQ?e=XQu9PM
+https://1drv.ms/i/c/dd9642a4a5fe25bb/EahuDnosVhRLvCUMBTqldxIB9BHHrpPWYxs1HfiBGSjeKQ?e=hZbDuU
+https://1drv.ms/i/c/dd9642a4a5fe25bb/EdLTcXCTby9FqI8Feb-ktBEBX08zD8uUZuY2kGOd61BTvg?e=YczaXV
+https://1drv.ms/i/c/dd9642a4a5fe25bb/EZM_yebPG0tJtgExwYEqCFkBNkYKY3VXEwV1wkZDB4kmAw?e=8te1Ma
+https://1drv.ms/i/c/dd9642a4a5fe25bb/EceVFTdTJaVFrKpNzlya7WIBQIdoRjnEKdC6kNAC_cINTA?e=nHH5Q6
